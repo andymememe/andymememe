@@ -10,6 +10,3 @@
   - Email: andymememe (Gmail)
   - LinkedIn: [Liang-Yu Chen](https://www.linkedin.com/in/andymememe/)
 - ⚡ Fun fact: I love vintage computers. My vintage computer blog: [Forgot Tech (zh-tw)](https://forgottech.wordpress.com/).
-
-### Stats
-[![Andymememe's github stats](https://github-readme-stats.vercel.app/api?username=andymememe)](https://github.com/anuraghazra/github-readme-stats)
